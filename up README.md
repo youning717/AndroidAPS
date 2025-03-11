@@ -23,6 +23,7 @@ https://afdian.com/a/manong
 * Download the `aaps.zip` file in `Artifacts`
 
 ### 如果你熟悉安卓开发：
+
 * 克隆此代码仓库到你自己的Github账号
 * 用你自己的安卓签名文件替换你克隆的仓库中的`keystore/demokeystore.jks`
 * 在你克隆的仓库设置中的  `Actions secrets and variables` 选项中添加如下秘密环境变量：  
